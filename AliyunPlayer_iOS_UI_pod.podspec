@@ -38,6 +38,6 @@ TODO: 基于https://github.com/amazing-longdd/AliyunPlayer_iOS_UI封装demo
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
-  s.dependency 'AliyunPlayer_iOS', '3.4.9'
+  s.dependency 'AliyunPlayer_iOS', '3.4.10'
   s.dependency 'MBProgressHUD'
 end
